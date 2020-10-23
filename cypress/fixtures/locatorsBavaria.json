@@ -1,0 +1,16 @@
+{
+  "year_one": "//*[@id='edit-year-one']",
+  "year_two": "//*[@id='edit-year-two']",
+  "year_three": "//*[@id='edit-year-three']",
+  "year_four": "//*[@id='edit-year-four']",
+  "month_one": "//*[@id='edit-month-one']",
+  "month_two": "//*[@id='edit-month-two']",
+  "day_one": "//*[@id='edit-day-one']",
+  "day_two": "//*[@id='edit-day-two']",
+  "bnt_into": "//*[@id='submit']",
+  "quedo_como_lulo": "//*[@id='menu-main']",
+  
+ 
+  "email": "hello@cypress.io",
+  "body": "Fixtures are a great way to mock data for responses to routes"
+}

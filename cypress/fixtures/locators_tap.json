@@ -1,0 +1,11 @@
+{
+    "select_idiom": "//*[@id='populatedLanguages']",
+    "lenguaje_english": "//*[@value='en']",
+    "day_born": "//*[@id='age_checker_day']",
+    "month_born": "//*[@id='age_checker_month']",
+    "year_born": "//*[@id='age_checker_year']",
+    "btn_into": "//*[@id='edit-submit']",
+    "message": "//*[@id='age_checker_header_message']/div[2]/p"
+    
+
+}
